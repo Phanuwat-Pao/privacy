@@ -1,4 +1,4 @@
-PRIVACY NOTICE
+### PRIVACY NOTICE
 
 Last updated March 26, 2024
 
@@ -56,41 +56,67 @@ Personal Information You Disclose to Us
 
 In Short: We collect personal information that you provide to us.
 
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+We collect personal information that you voluntarily provide to us when expressing an interest in our products and Services, participating in activities on the Services, or when contacting us. This includes, but is not limited to:
 
-The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+Usernames and passwords, used for account creation and management.
+Contact information, such as email addresses and phone numbers, to communicate with you and provide customer support.
+Feedback and correspondence, such as information you provide in your responses to surveys or when you participate in market research activities.
+Sensitive Information
 
-Usernames
-Passwords
-Application Data
+We do not process sensitive personal information, in line with our commitment to respect your privacy.
 
-If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+### Application Data
 
-Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's storage, and other features.
-Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s).
-Additionally, we collect images of the installation sites of temperature measurement devices that you upload through our application(s). This information is used to help users visualize and understand the placement and context of these devices. It is important to ensure that you have the necessary rights and permissions to upload and share these images, and that they do not violate any third party's privacy or intellectual property rights.
+In our application(s), if you grant us access or permission, we may also collect:
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+Mobile Device Access: We may request access or permission to certain features from your mobile device, including storage, camera, and location, to facilitate the service’s core functions.
+Push Notifications: We may send you push notifications related to your account or specific features of the application(s), subject to your preferences.
+Images of Installation Sites
 
+As part of our service, we collect images that you upload to our application(s) showing the installation sites of temperature measurement devices. These images are crucial for:
+
+Verifying the correct installation and operational status of the devices.
+Assisting users in visualizing the environmental context and physical location of the measurement devices.
+Enhancing the user experience by providing a visual reference that aids in the monitoring and management of the devices.
+Before uploading any image, ensure that:
+
+You have the legal right to take, upload, and share the image.
+The image does not include any identifiable individuals or private property unless you have explicit consent from the individuals or property owners featured in the image.
+The image complies with local laws and regulations concerning privacy and data protection.
+All personal information, including images that you provide to us, must be true, complete, and accurate. You are responsible for notifying us of any changes to your personal information.
 
 2. HOW DO WE PROCESS YOUR INFORMATION?
 
-In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+In Short: We process your information to provide, improve, and administer our Services, communicate with you, ensure security, and comply with legal obligations.
 
-We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
-To deliver and facilitate delivery of services to the user. We may process your information to provide you with the requested service.
+We use the personal information collected, including the images of installation sites, for various purposes, such as:
 
-
-
-
-
+Service Delivery: To facilitate the provision of our Services, including verifying the setup and operational status of the temperature measurement devices.
+Customer Support and Communication: To respond to inquiries, send service updates, and provide support and assistance for our Services.
+Improvement and Development: To analyze usage patterns and feedback for service improvement and development of new features.
+Security and Fraud Prevention: To detect, prevent, and address technical issues, fraud, or other harmful activity.
+Legal Compliance: To comply with legal obligations, including responding to lawful requests and orders from law enforcement or other government authorities.
 3. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
-In Short: We may share information in specific situations described in this section and/or with the following third parties.
+In Short: We share your information with third parties in specific situations and with entities that help us provide our Services.
 
-We may need to share your personal information in the following situations:
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+Your personal information, including images, may be shared with:
 
+Service Providers: Companies that assist us in providing our Services, such as data hosting, IT services, and customer service.
+Business Transfers: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the involved parties.
+Legal Obligations: When required by law, we may disclose your information in response to lawful requests by public authorities.
+Consent-Based Sharing: With your explicit consent, we may share your information for purposes specified at the time of collection.
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+In Short: We implement a mix of organizational and technical measures to secure your personal information.
+
+To protect your personal information, including uploaded images of installation sites, we employ:
+
+Encryption: To safeguard data transmission and storage.
+Access Controls: To limit access to information to only those employees or partners who need it to provide services.
+Regular Audits: To evaluate our security policies and procedures and ensure compliance with our standards.
+Incident Response Plans: To address potential security breaches and minimize their impact.
+We are committed to ensuring the security of your information, but remember that no method of electronic storage or transmission is 100% secure. We strive to use commercially acceptable means to protect your information but cannot guarantee its absolute security.
 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
 In Short: We may use cookies and other tracking technologies to collect and store your information.
